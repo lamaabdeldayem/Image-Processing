@@ -51,13 +51,3 @@ The results are displayed in separate windows showing the following:
 - The image with contours drawn on it (`white_image`)
 - The final image with bounding boxes around the contours (`img_after`)
 
-### Example
-
-1. Original Image:
-   ![original](./red_birds.png)
-
-2. Edge Detection:
-   ![edge_detection](./edge_detection.png)
-
-3. Contours with Bounding Boxes:
-   ![img_after](./img_after.png)
