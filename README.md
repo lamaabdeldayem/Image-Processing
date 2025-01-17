@@ -32,7 +32,7 @@ Ensure that you have the required image files (`red_birds.png` and `white_temple
 Run the script:
 
 ```bash
-python script_name.py
+python Object_detection.py
 ```
 
 ### Description of the code
